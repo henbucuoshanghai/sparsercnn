@@ -1,0 +1,7 @@
+# ninja log v5
+1	8895	1609123938349240979	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.8/home/lixiang/SparseR-CNN/detectron2/layers/csrc/cocoeval/cocoeval.o	21dc86ef9664414
+0	9407	1609123938861285837	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.8/home/lixiang/SparseR-CNN/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.o	6616f9cc94b50ec1
+1	10913	1609123940365417604	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.8/home/lixiang/SparseR-CNN/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.o	731873662d9a907a
+1	14844	1609123944297762080	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.8/home/lixiang/SparseR-CNN/detectron2/layers/csrc/ROIAlign/ROIAlign_cpu.o	766211cab6859ea0
+1	15038	1609123944489778900	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.8/home/lixiang/SparseR-CNN/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.o	825b6e2e1ad3413d
+0	30925	1609123960375170279	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.8/home/lixiang/SparseR-CNN/detectron2/layers/csrc/vision.o	622621c4a87a7514

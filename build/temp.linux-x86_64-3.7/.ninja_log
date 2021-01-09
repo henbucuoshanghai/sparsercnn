@@ -1,0 +1,27 @@
+# ninja log v5
+4	9418	1609125704772658884	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/cuda_version.o	6c1b458f9e4618e7
+1	14572	1609125709925138356	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.o	b931d873cf27fcc0
+2	15479	1609125710829222467	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/cocoeval/cocoeval.o	e26063022e5f4bdb
+1	16876	1609125712229352714	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.o	fb0417eb2d5f42a2
+1	20422	1609125715773682364	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/ROIAlign/ROIAlign_cpu.o	cd37c30eebc4fb6f
+1	20536	1609125715889693153	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.o	540a6f126dac04a6
+3	26158	1609125721506215341	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/ROIAlign/ROIAlign_cuda.o	d82a39838692bacc
+3	27649	1609125722998354034	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/nms_rotated/nms_rotated_cuda.o	21454b655e6357bb
+2	27798	1609125723150368162	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cuda.o	8812dfac40a41c5f
+4	28048	1609125723398391213	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cuda.o	6524bc4635619cc1
+4	28147	1609125723494400136	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/deformable/deform_conv_cuda_kernel.o	562a38a66e141bd0
+3	33580	1609125728930905295	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/deformable/deform_conv_cuda.o	845adac5a28cfda9
+0	41139	1609125736483606742	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/vision.o	c01d6686bf700c6
+16	777	1609125738771819178	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/cuda_version.o	5323ae2b8ae1c8a8
+4	9617	1609125747608639242	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cpu.o	dffb0fda08cc540e
+5	10266	1609125748252698990	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/cocoeval/cocoeval.o	b64109429a8349f8
+5	11057	1609125749044772466	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/nms_rotated/nms_rotated_cpu.o	9b1ddd468a282a79
+5	14948	1609125752933133101	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cpu.o	7150a145767ebafd
+4	14971	1609125752957135327	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/ROIAlign/ROIAlign_cpu.o	f57ce204045ed3ee
+6	17930	1609125755913409444	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/ROIAlign/ROIAlign_cuda.o	faa07a8fd84473a9
+6	18971	1609125756957506243	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/box_iou_rotated/box_iou_rotated_cuda.o	398902f6cc5b95b1
+12	19137	1609125757117521077	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/ROIAlignRotated/ROIAlignRotated_cuda.o	53b1f84abcc3d0dc
+7	19185	1609125757169525899	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/nms_rotated/nms_rotated_cuda.o	4878da3bb74dd1f
+9	20271	1609125758253626397	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/deformable/deform_conv_cuda_kernel.o	88cadb7332ff3177
+8	25352	1609125763338097632	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/deformable/deform_conv_cuda.o	5a032614f3f62251
+4	33514	1609125771494853255	/home/lixiang/SparseR-CNN/build/temp.linux-x86_64-3.7/home/lixiang/SparseR-CNN/detectron2/layers/csrc/vision.o	c50a071269e5da22

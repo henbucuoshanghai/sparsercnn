@@ -1,0 +1,19 @@
+_BASE_: "Base-SparseRCNN.yaml"
+MODEL:
+  WEIGHTS: "detectron2://ImageNetPretrained/torchvision/R-50.pkl"
+  RESNETS:
+    DEPTH: 50
+    STRIDE_IN_1X1: False
+  SparseRCNN:
+    NUM_PROPOSALS: 100
+    NUM_CLASSES: 3
+DATASETS:
+  TRAIN: ('voc_2007_trainval',)
+  TEST: ('voc_2007_test',)
+SOLVER:
+  STEPS: (12000, 16000)
+  MAX_ITER: 18000
+INPUT:
+  MIN_SIZE_TRAIN: (480, 512, 544, 576, 608, 640, 672, 704, 736, 768, 800)
+  MIN_SIZE_TEST: 800
+
